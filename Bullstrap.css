@@ -7,7 +7,7 @@ body{
     justify-content: center;
     background-image: url(https://img.freepik.com/premium-photo/dark-rough-cement-wall-background-graphic-design_226189-6885.jpg?semt=ais_hybrid);
     background-repeat: no-repeat;
-    background-size: 700%;
+    background-size: 1000%;
 }
 @media screen and (max-width:767px) {
     body{
@@ -179,7 +179,7 @@ body{
     position: relative;
     padding: 15rem 5rem;
     transform-style: preserve-3d;
-    transition: transform 3s;
+    transition: transform 1s;
 }
 .card:hover .card-content{
 transform: rotateY(180deg);
@@ -346,7 +346,7 @@ margin-bottom: 20px;
 position: relative;
 padding: 15rem 5rem;
 transform-style: preserve-3d;
-transition: transform 3s;
+transition: transform 1s;
 }
 .card2:hover .card-content2{
 transform: rotateY(180deg);
